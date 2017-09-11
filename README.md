@@ -13,7 +13,7 @@ En `package.json`, se agregó dos librerías en dependencies :
   "name": "ecomm-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lp2-20172.github.io/ecomm-client",
+  "homepage": "https://github.com/lp2-20172/bufete_juridico",
   "dependencies": {
 +   "axios": "^0.16.2",
     "react": "^15.6.1",
