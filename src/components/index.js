@@ -8,7 +8,7 @@ export default class Index extends React.Component{
                 <Navbar inverse collapseOnSelect>
                   <Navbar.Header>
                     <Navbar.Brand>
-                      <a href="#">Sistema de alquiler</a>
+                      <a href="#">Rentas de oficina</a>
                     </Navbar.Brand>
                     <Navbar.Toggle />
                   </Navbar.Header>
